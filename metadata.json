@@ -1,0 +1,5 @@
+{
+  "name": "Bosch-Thermotechnik - ASCII 40 Data Formatter",
+  "description": "A simple and elegant tool to convert your spreadsheet data (e.g., from Excel or Google Sheets) into a beautiful, plain-text ASCII table, perfect for documentation, code comments, or emails.",
+  "requestFramePermissions": []
+}
